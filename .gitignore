@@ -1,0 +1,9 @@
+# Ignore local configuration files.
+/.ruby-version
+
+# Ignore bundler config.
+/.bundle
+
+# Ignore temporary files.
+.byebug_history
+/tmp
