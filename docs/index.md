@@ -18,6 +18,10 @@ Doubtful Space Program defines the following entities:
 
 A `Space::Part` is an individual rocket component.
 
+[Go To Parts](./reference/part)
+
 ### Rockets
 
 A `Space::Rocket` is a fully assembled, ready to launch piece of space machinery.
+
+[Go To Rockets](./reference/rocket)
