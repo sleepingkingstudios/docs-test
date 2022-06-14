@@ -2,8 +2,8 @@
 
 An example project to evaluate GitHub Pages-based versioned documentation.
 
-> This is the documentation for the
-> [current development version](https://github.com/sleepingkingstudios/docs-test).
+> This is the documentation for
+> [Version 1.0](https://github.com/sleepingkingstudios/docs-test).
 > For previous versions, see [Versions]({{site.baseurl}}/versions).
 
 ## Introduction
