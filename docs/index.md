@@ -24,7 +24,7 @@ A `Space::Part` is an individual rocket component.
 
 [Go To Parts](./reference/part)
 
-### Rockets
+### Rockets {#space-goers}
 
 A `Space::Rocket` is a fully assembled, ready to launch piece of space machinery.
 
