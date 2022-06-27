@@ -1,3 +1,7 @@
+---
+layout: reference
+---
+
 # Doubtful Space Program
 
 An example project to evaluate GitHub Pages-based versioned documentation.
