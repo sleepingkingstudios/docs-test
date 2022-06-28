@@ -14,5 +14,5 @@ Version
 There are {{ site.planets.size }} planets.
 
 {% for planet in site.planets %}
-{% include planet.md show_all=true %}
+{% include planet.md %}
 {% endfor %}
