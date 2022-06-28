@@ -5,4 +5,3 @@ collections:
     output: false
     round: true
 safe: true
-source: docs

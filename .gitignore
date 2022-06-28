@@ -5,7 +5,7 @@
 /.bundle
 
 # Ignore generated documentation.
-/_site
+/docs/_site
 
 # Ignore temporary files.
 .byebug_history
