@@ -10,6 +10,11 @@ An example project to evaluate GitHub Pages-based versioned documentation.
 > [current development version](https://github.com/sleepingkingstudios/docs-test).
 > For previous versions, see [Versions]({{site.baseurl}}/versions).
 
+Collections
+: {% for collection in site.collections -%}
+  - {{ collection.label }} ({{ collection.directory }})
+  {% endfor %}
+
 ## Introduction
 
 You are not going to space today.
@@ -33,3 +38,7 @@ A `Space::Part` is an individual rocket component.
 A `Space::Rocket` is a fully assembled, ready to launch piece of space machinery.
 
 [Go To Rockets](./reference/rocket)
+
+## Planets
+
+See [Planets](./planets).
